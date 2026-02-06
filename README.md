@@ -64,6 +64,4 @@ Cybersecurity • Networking • System Security • AI & ML • Software Develo
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=manu-1-1&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manu-1-1&layout=compact&theme=dark)
-
 ---
