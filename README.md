@@ -58,22 +58,12 @@ Actively seeking **internship opportunities** in **Cybersecurity** and **Softwar
 Cybersecurity • Networking • System Security • AI & ML • Software Development
 
 ---
-
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manu-1-1&show_icons=true&theme=dark&count_private=true&cache_seconds=1800)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=manu-1-1&theme=dark&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manu-1-1&layout=compact&theme=dark&cache_seconds=1800)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manu-1-1&show_icons=true&theme=dark&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=manu-1-1&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manu-1-1&layout=compact&theme=dark)
 
 ---
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=manu-1-1&theme=radical&margin-w=4)
-
----
-
-## 👀 Profile Views
-![Profile Views](https://visitcount.itsvg.in/api?id=manu-1-1&icon=0&color=0)
-
----
-
-✨ *“Secure systems. Clean code. Constant learning.”*
