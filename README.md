@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Manukrishna J P
 
-🎓 B.Tech Computer Science (Cybersecurity) @ Amrita Vishwa Vidyapeetham  
-🔐 Cybersecurity & Systems Enthusiast | 💻 Software Developer  
+🔐 Cybersecurity & Systems Enthusiast  
+💻 Computer Science Student | Software Developer  
 📍 India
 
 ---
@@ -19,19 +19,6 @@ Actively seeking **internship opportunities** in **Cybersecurity** and **Softwar
 
 ---
 
-## 🎓 Education
-**Amrita Vishwa Vidyapeetham, Coimbatore**  
-📅 2024 – Present  
-🎓 B.Tech in Computer Science (Cybersecurity)  
-📊 **CGPA: 9.1**
-
-**GHSS Valayam, Kerala**  
-📅 2021 – 2023  
-📘 Higher Secondary (PCMB)  
-📊 **97.5%**
-
----
-
 ## 💻 Technical Skills
 
 ### 🧑‍💻 Programming Languages
@@ -43,14 +30,14 @@ Actively seeking **internship opportunities** in **Cybersecurity** and **Softwar
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🌐 Web Technologies
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🛠 Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🧠 Core CS
+### 🧠 Core Computer Science
 - Data Structures & Algorithms  
 - Operating Systems  
 - Computer Networks  
@@ -67,42 +54,8 @@ Actively seeking **internship opportunities** in **Cybersecurity** and **Softwar
 
 ---
 
-## 🚀 Projects
-
-### 🛰️ Custom DNS Resolver *(2025 – Ongoing)*
-- Built a DNS resolver in **Python** using **socket programming**
-- Implemented **iterative resolution** and **caching**
-- Exploring **DNS security**, **packet analysis**, and protocol behavior
-
-### 🌐 Personal Portfolio Website *(2025 – Ongoing)*
-- Responsive portfolio using **HTML, CSS, JavaScript**
-- Showcases projects, skills, and contact info
-- Focus on **clean UI**, **performance**, and accessibility
-
----
-
-## 📜 Certifications
-- 🐍 Python Essentials 1 & 2 — *Cisco Networking Academy & OpenEDG*
-- 🔐 Cybersecurity Essentials — *Cisco*
-- 🌐 Networking Basics — *Cisco*
-- 🤖 Introduction to Generative AI — *IBM SkillsBuild*
-
----
-
 ## 🎯 Areas of Interest
 Cybersecurity • Networking • System Security • AI & ML • Software Development
-
----
-
-## 🤝 Leadership & Volunteering
-**🎥 Videographer — Team Media Amrita** *(2025 – Present)*  
-Media production and video editing for university events.
-
-**🟧 NSS Volunteer** *(2021 – 2023)*  
-Community service and social initiatives.
-
-**👮 Student Police Cadet** *(2018 – 2021)*  
-Leadership training and community safety programs.
 
 ---
 
@@ -114,7 +67,7 @@ Leadership training and community safety programs.
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=manu-1-1&theme=radical&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=manu-1-1&theme=radical&margin-w=4)
 
 ---
 
