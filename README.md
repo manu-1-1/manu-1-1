@@ -13,7 +13,8 @@ Currently looking for **internships in Cybersecurity or Software Engineering** w
 
 ---
 
-##Connect with Me
+## Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manukrishna-jp)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manukrishna06211@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manu-1-1)
@@ -67,7 +68,7 @@ Cybersecurity • Networking • System Security • AI & ML • Software Develo
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manu-1-1&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
----
+
 ## LeetCode
 
 <div align="center">
