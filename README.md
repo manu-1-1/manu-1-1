@@ -4,14 +4,12 @@
 💻 Computer Science Student | Software Developer  
 📍 India
 
----
 
 ## Objective
 Computer Science student passionate about **breaking and securing systems**.  
 I enjoy working close to the OS and network layer — from debugging low-level issues to exploring real-world security vulnerabilities.  
 Currently looking for **internships in Cybersecurity or Software Engineering** where I can learn fast and build things that matter.
 
----
 
 ## Connect with Me
 
@@ -19,7 +17,6 @@ Currently looking for **internships in Cybersecurity or Software Engineering** w
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manukrishna06211@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manu-1-1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/manu_11_/)
----
 
 ## Technical Skills
 
@@ -51,8 +48,6 @@ Currently looking for **internships in Cybersecurity or Software Engineering** w
 - Cryptography basics
 - Web security fundamentals
 
----
-
 ## Areas of Interest
 Cybersecurity • Networking • System Security • AI & ML • Software Development
 
@@ -76,7 +71,7 @@ Cybersecurity • Networking • System Security • AI & ML • Software Develo
 [![LeetCode Stats](https://leetcard.jacoblin.cool/manu_11_?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/manu_11_/)
 
 </div>
----
+
 
 <div align="center">
 
