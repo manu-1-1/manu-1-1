@@ -71,7 +71,7 @@ Cybersecurity • Networking • System Security • AI & ML • Software Develo
 [![LeetCode Stats](https://leetcard.jacoblin.cool/manu_11_?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/manu_11_/)
 
 </div>
----
+
 <div align="center">
 
 *I like learning by breaking things, reading source code, and asking “why does this work?”  
