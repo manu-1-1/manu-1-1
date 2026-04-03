@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Manukrishna J P
 
-🔐 Cybersecurity & Systems Enthusiast  
-💻 Computer Science Student | Software Developer  
+Cybersecurity & Systems Enthusiast  
+Computer Science Student 
 📍 India
 
 
