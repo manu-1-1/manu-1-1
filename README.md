@@ -40,14 +40,10 @@ CONCEPTS    = [ "System Design", "RESTful APIs","Microservices"]
 
 ### `$ cat experience.log`
 
-**`2024 – Present`** · Undergraduate Researcher · Amrita Vishwa Vidyapeetham, Coimbatore
+**`2026 April – Present`** · Undergraduate Researcher · Amrita Vishwa Vidyapeetham, Coimbatore
 
-- Contributing to **LGSI project** under Mr. Ramaguru Radhakrishnan — AI-based real-time IDS for IoT using Digital Twin technology
-- Evaluated **6 IoT/Digital Twin platforms** (ThingsBoard, Node-RED, AVEVA Edge, SAP BTP, Losant, Akka) with detailed comparison matrix
-- Designed the **3-layer Digital Twin architecture** (Digital Model → Shadow → Twin) for smart home intrusion detection
-- Presented project as a competitive 3-minute research pitch integrating live architecture walkthrough
+- Contributing to **LGSI project** under Mr. Ramaguru Radhakrishnan
 
-`digital-twin` `iot-security` `python` `node-red` `thingsboard` `research`
 
 ---
 
@@ -134,13 +130,11 @@ current_focus:
   building:
     - "Preflight AI: cloud infra risk engine with real-time failure simulation (team)"
     - "CodeMesh: real-time collaborative dev platform — React + Node.js + Socket.IO"
-    - "LGSI: Digital Twin-based real-time IDS for IoT (Amrita research)"
   learning:
     - "Distributed systems & scalable backend architecture"
     - "GPU-accelerated LLM inference (vLLM, asyncio orchestration)"
     - "Advanced computer networks & protocol internals"
   exploring:
-    - "Real-time systems & concurrency patterns"
     - "LLM fine-tuning & RAG pipeline optimization"
   open_to:
     - "Software engineering internships (backend / full-stack)"
