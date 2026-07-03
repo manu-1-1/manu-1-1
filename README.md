@@ -18,7 +18,7 @@
 
 ---
 
-### `$ cat about.txt`
+### `$ cat about.txtmvjv`
 
 > CS (Cybersecurity) student at Amrita Vishwa Vidyapeetham — but my interests go well beyond security. I genuinely enjoy **building software**, digging into **computer networks**, and exploring how **AI systems** work under the hood. I'm drawn to projects where these areas intersect: network-aware applications, AI-powered dev tools, and systems that solve real problems. I learn best by shipping things.
 
