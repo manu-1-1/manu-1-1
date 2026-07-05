@@ -20,7 +20,7 @@
 
 ### `$ cat about.me`
 
-> CS (Cybersecurity) student at Amrita Vishwa Vidyapeetham — but my interests go well beyond security. I genuinely enjoy **building software**, digging into **computer networks**, and exploring how **AI systems** work under the hood. I'm drawn to projects where these areas intersect: network-aware applications, AI-powered dev tools, and systems that solve real problems. I learn best by shipping things.
+> Cybersecurity undergraduate at Amrita Vishwa Vidyapeetham with a strong interest in software development, computer networks, and artificial intelligence. Passionate about building practical applications, exploring how modern technologies work under the hood, and solving real-world problems through technology. Experienced with C, C++, Python, JavaScript, React, Node.js, Express.js, SQL, and Linux, with hands-on projects in web development, networking, and cybersecurity. A fast learner who enjoys working on projects that combine software engineering, AI, and security while continuously expanding technical knowledge through practical development.
 
 
 ---
