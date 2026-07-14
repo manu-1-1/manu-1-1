@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0A2540,100:0D1117&height=120&section=header&text=Manukrishna%20JP&fontSize=48&fontColor=00F5D4&fontAlignY=55&desc=CS%20%7C%20Networks%20%7C%20Software%20Dev%20%7C%20AI&descAlignY=80&descSize=16&descFontColor=00B4D8&stroke=00F5D4&strokeWidth=1" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+CS+Student+%40+Amrita+%7C+CGPA%3A+9.24;%24+interest+%E2%86%92+Software+Dev+%7C+Real-Time+Systems+%7C+AI;%24+building+%E2%86%92+Preflight+AI+%7C+CodeMesh+%7C+Qwen-ATLAS;%24+stack+%E2%86%92+C%2B%2B+%7C+Python+%7C+React+%7C+Node.js+%7C+FastAPI;%24+status+%E2%86%92+Open+to+SWE+%26+AI+Engineering+Internships" alt="Typing SVG" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img src="./dark.svg" alt="Manukrishna JP — CS | Networks | Software Dev | AI" width="100%">
+  </picture>
 </p>
 
 ---
