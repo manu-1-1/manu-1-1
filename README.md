@@ -16,14 +16,24 @@
 
 ---
 
-### `$ cat about.me`
+<img src="./hdr-about.svg" alt="$ cat about.me" height="44">
 
-> Cybersecurity undergraduate at Amrita Vishwa Vidyapeetham with a strong interest in software development, computer networks, and artificial intelligence. Passionate about building practical applications, exploring how modern technologies work under the hood, and solving real-world problems through technology. Experienced with C, C++, Python, JavaScript, React, Node.js, Express.js, SQL, and Linux, with hands-on projects in web development, networking, and cybersecurity. A fast learner who enjoys working on projects that combine software engineering, AI, and security while continuously expanding technical knowledge through practical development.
+```text
+Cybersecurity undergraduate at Amrita Vishwa Vidyapeetham with a strong interest
+in software development, computer networks, and artificial intelligence.
+Passionate about building practical applications, exploring how modern
+technologies work under the hood, and solving real-world problems through
+technology. Experienced with C, C++, Python, JavaScript, React, Node.js,
+Express.js, SQL, and Linux, with hands-on projects in web development,
+networking, and cybersecurity. A fast learner who enjoys working on projects
+that combine software engineering, AI, and security while continuously
+expanding technical knowledge through practical development.
+```
 
 
 ---
 
-### `$ ls tech-stack/`
+<img src="./hdr-techstack.svg" alt="$ ls tech-stack/" height="44">
 
 ```bash
 LANGUAGES   = ["C++", "Python", "C", "JavaScript", "Java"]
@@ -36,16 +46,17 @@ CONCEPTS    = [ "System Design", "RESTful APIs","Microservices"]
 
 ```
 
-### `$ cat experience.log`
+<img src="./hdr-experience.svg" alt="$ cat experience.log" height="44">
 
-**`2026 April – Present`** · Undergraduate Researcher · Amrita Vishwa Vidyapeetham, Coimbatore
-
-- Contributing to **LGSI project** under Mr. Ramaguru Radhakrishnan
+```log
+[2026-04 .. present]  Undergraduate Researcher — Amrita Vishwa Vidyapeetham, Coimbatore
+  └─ Contributing to LGSI project under Mr. Ramaguru Radhakrishnan
+```
 
 
 ---
 
-### `$ cat education.badge`
+<img src="./hdr-education.svg" alt="$ cat education.badge" height="44">
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20(Cybersecurity)-00F5D4?style=for-the-badge&labelColor=0D1117" />
@@ -55,7 +66,7 @@ CONCEPTS    = [ "System Design", "RESTful APIs","Microservices"]
 
 ---
 
-### `$ cat coding-profiles.cfg`
+<img src="./hdr-coding.svg" alt="$ cat coding-profiles.cfg" height="44">
 
 <p align="center">
   <a href="https://leetcode.com/u/manu_11_/">
@@ -65,7 +76,7 @@ CONCEPTS    = [ "System Design", "RESTful APIs","Microservices"]
 
 ---
 
-### `$ ./github-analytics.sh`
+<img src="./hdr-analytics.svg" alt="$ ./github-analytics.sh" height="44">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manu-1-1&show_icons=true&theme=transparent&title_color=00F5D4&icon_color=00B4D8&text_color=CDD9E5&border_color=00F5D4&hide_border=false&bg_color=0D1117" height="160" />
@@ -79,7 +90,7 @@ CONCEPTS    = [ "System Design", "RESTful APIs","Microservices"]
 
 ---
 
-### `$ cat trophies.json`
+<img src="./hdr-trophies.svg" alt="$ cat trophies.json" height="44">
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=manu-1-1&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" />
@@ -87,7 +98,7 @@ CONCEPTS    = [ "System Design", "RESTful APIs","Microservices"]
 
 ---
 
-### `$ tail -f activity.log`
+<img src="./hdr-activity.svg" alt="$ tail -f activity.log" height="44">
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manu-1-1&bg_color=0D1117&color=00F5D4&line=00B4D8&point=00F5D4&area=true&area_color=00F5D4&hide_border=false&border_color=00F5D4&title_color=00F5D4" />
@@ -95,7 +106,7 @@ CONCEPTS    = [ "System Design", "RESTful APIs","Microservices"]
 
 ---
 
-### `$ cat summary-cards.cfg`
+<img src="./hdr-summary.svg" alt="$ cat summary-cards.cfg" height="44">
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manu-1-1&theme=transparent" />
@@ -113,7 +124,7 @@ CONCEPTS    = [ "System Design", "RESTful APIs","Microservices"]
 
 ---
 
-### `$ watch snake.py`
+<img src="./hdr-snake.svg" alt="$ watch snake.py" height="44">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/manu-1-1/manu-1-1/output/github-contribution-grid-snake-dark.svg" />
@@ -121,7 +132,7 @@ CONCEPTS    = [ "System Design", "RESTful APIs","Microservices"]
 
 ---
 
-### `$ cat focus.yaml`
+<img src="./hdr-focus.svg" alt="$ cat focus.yaml" height="44">
 
 ```yaml
 current_focus:
@@ -143,7 +154,7 @@ current_focus:
 
 ---
 
-### `$ ./connect.sh --all`
+<img src="./hdr-connect.svg" alt="$ ./connect.sh --all" height="44">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manukrishna-jp">
