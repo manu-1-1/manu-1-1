@@ -16,47 +16,23 @@
 
 ---
 
-<img src="./hdr-about.svg" alt="$ cat about.me" height="44">
-
-```text
-Cybersecurity undergraduate at Amrita Vishwa Vidyapeetham with a strong interest
-in software development, computer networks, and artificial intelligence.
-Passionate about building practical applications, exploring how modern
-technologies work under the hood, and solving real-world problems through
-technology. Experienced with C, C++, Python, JavaScript, React, Node.js,
-Express.js, SQL, and Linux, with hands-on projects in web development,
-networking, and cybersecurity. A fast learner who enjoys working on projects
-that combine software engineering, AI, and security while continuously
-expanding technical knowledge through practical development.
-```
-
+<p align="center">
+  <img src="./card-about.svg" alt="$ cat about.me" width="100%">
+</p>
 
 ---
 
-<img src="./hdr-techstack.svg" alt="$ ls tech-stack/" height="44">
+<p align="center">
+  <img src="./card-techstack.svg" alt="$ ls tech-stack/" width="100%">
+</p>
 
-```bash
-LANGUAGES   = ["C++", "Python", "C", "JavaScript", "Java"]
-FRAMEWORKS  = ["React", "Node.js", "Express", "Socket.IO", "FastAPI","HTML", "CSS"]
-AI_ML       = ["HuggingFace", "RAG", "ChromaDB", "Langchain"]
-DATABASES   = ["PostgreSQL", "SQL", "Prisma ORM"]
-DEVOPS      = ["Git", "Linux", "Docker", "GitHub Actions"]
-CORE_CS     = ["DSA", "OOP", "OS", "Computer Networks", "DBMS"]
-CONCEPTS    = [ "System Design", "RESTful APIs","Microservices"]
-
-```
-
-<img src="./hdr-experience.svg" alt="$ cat experience.log" height="44">
-
-```log
-[2026-04 .. present]  Undergraduate Researcher — Amrita Vishwa Vidyapeetham, Coimbatore
-  └─ Contributing to LGSI project under Mr. Ramaguru Radhakrishnan
-```
-
+<p align="center">
+  <img src="./card-experience.svg" alt="$ cat experience.log" width="100%">
+</p>
 
 ---
 
-<img src="./hdr-education.svg" alt="$ cat education.badge" height="44">
+<img src="./prompt-education.svg" alt="$ cat education.badge" height="34">
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20(Cybersecurity)-00F5D4?style=for-the-badge&labelColor=0D1117" />
@@ -66,7 +42,7 @@ CONCEPTS    = [ "System Design", "RESTful APIs","Microservices"]
 
 ---
 
-<img src="./hdr-coding.svg" alt="$ cat coding-profiles.cfg" height="44">
+<img src="./prompt-coding.svg" alt="$ cat coding-profiles.cfg" height="34">
 
 <p align="center">
   <a href="https://leetcode.com/u/manu_11_/">
@@ -76,7 +52,7 @@ CONCEPTS    = [ "System Design", "RESTful APIs","Microservices"]
 
 ---
 
-<img src="./hdr-analytics.svg" alt="$ ./github-analytics.sh" height="44">
+<img src="./prompt-analytics.svg" alt="$ ./github-analytics.sh" height="34">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manu-1-1&show_icons=true&theme=transparent&title_color=00F5D4&icon_color=00B4D8&text_color=CDD9E5&border_color=00F5D4&hide_border=false&bg_color=0D1117" height="160" />
@@ -90,7 +66,7 @@ CONCEPTS    = [ "System Design", "RESTful APIs","Microservices"]
 
 ---
 
-<img src="./hdr-trophies.svg" alt="$ cat trophies.json" height="44">
+<img src="./prompt-trophies.svg" alt="$ cat trophies.json" height="34">
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=manu-1-1&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" />
@@ -98,7 +74,7 @@ CONCEPTS    = [ "System Design", "RESTful APIs","Microservices"]
 
 ---
 
-<img src="./hdr-activity.svg" alt="$ tail -f activity.log" height="44">
+<img src="./prompt-activity.svg" alt="$ tail -f activity.log" height="34">
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manu-1-1&bg_color=0D1117&color=00F5D4&line=00B4D8&point=00F5D4&area=true&area_color=00F5D4&hide_border=false&border_color=00F5D4&title_color=00F5D4" />
@@ -106,7 +82,7 @@ CONCEPTS    = [ "System Design", "RESTful APIs","Microservices"]
 
 ---
 
-<img src="./hdr-summary.svg" alt="$ cat summary-cards.cfg" height="44">
+<img src="./prompt-summary.svg" alt="$ cat summary-cards.cfg" height="34">
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manu-1-1&theme=transparent" />
@@ -124,7 +100,7 @@ CONCEPTS    = [ "System Design", "RESTful APIs","Microservices"]
 
 ---
 
-<img src="./hdr-snake.svg" alt="$ watch snake.py" height="44">
+<img src="./prompt-snake.svg" alt="$ watch snake.py" height="34">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/manu-1-1/manu-1-1/output/github-contribution-grid-snake-dark.svg" />
@@ -132,29 +108,13 @@ CONCEPTS    = [ "System Design", "RESTful APIs","Microservices"]
 
 ---
 
-<img src="./hdr-focus.svg" alt="$ cat focus.yaml" height="44">
-
-```yaml
-current_focus:
-  building:
-    - "Preflight AI: cloud infra risk engine with real-time failure simulation (team)"
-    - "CodeMesh: real-time collaborative dev platform — React + Node.js + Socket.IO"
-  learning:
-    - "Distributed systems & scalable backend architecture"
-    - "GPU-accelerated LLM inference (vLLM, asyncio orchestration)"
-    - "Advanced computer networks & protocol internals"
-  exploring:
-    - "LLM fine-tuning & RAG pipeline optimization"
-  open_to:
-    - "Software engineering internships (backend / full-stack)"
-    - "AI/ML engineering roles"
-    - "Real-time systems or distributed systems positions"
-    - "Open-source contributions"
-```
+<p align="center">
+  <img src="./card-focus.svg" alt="$ cat focus.yaml" width="100%">
+</p>
 
 ---
 
-<img src="./hdr-connect.svg" alt="$ ./connect.sh --all" height="44">
+<img src="./prompt-connect.svg" alt="$ ./connect.sh --all" height="34">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manukrishna-jp">
