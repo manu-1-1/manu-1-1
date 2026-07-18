@@ -261,59 +261,73 @@
     
   <g opacity="0" transform="translate(591,340)">
     <animate attributeName="opacity" from="0" to="1" begin="4.14s" dur="0.4s" fill="freeze"/>
-    <rect x="0" y="0" width="72.0" height="27" rx="13.5" fill="rgba(0,245,212,0.05)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#softGlow)">
-      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.4s" begin="4.64s" repeatCount="indefinite"/>
-    </rect>
-    <text x="36.0" y="18" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12.5" fill="#F8FAFC">React</text>
-  </g>
-  <g opacity="0" transform="translate(673.0,340)">
-    <animate attributeName="opacity" from="0" to="1" begin="4.23s" dur="0.4s" fill="freeze"/>
-    <rect x="0" y="0" width="87.2" height="27" rx="13.5" fill="rgba(0,245,212,0.05)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#softGlow)">
-      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.4s" begin="4.73s" repeatCount="indefinite"/>
-    </rect>
-    <text x="43.6" y="18" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12.5" fill="#F8FAFC">Node.js</text>
-  </g>
-  <g opacity="0" transform="translate(770.2,340)">
-    <animate attributeName="opacity" from="0" to="1" begin="4.32s" dur="0.4s" fill="freeze"/>
     <rect x="0" y="0" width="79.6" height="27" rx="13.5" fill="rgba(0,245,212,0.05)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#softGlow)">
-      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.4s" begin="4.82s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.4s" begin="4.64s" repeatCount="indefinite"/>
     </rect>
     <text x="39.8" y="18" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12.5" fill="#F8FAFC">Python</text>
   </g>
-  <g opacity="0" transform="translate(859.8000000000001,340)">
-    <animate attributeName="opacity" from="0" to="1" begin="4.41s" dur="0.4s" fill="freeze"/>
+  <g opacity="0" transform="translate(680.6,340)">
+    <animate attributeName="opacity" from="0" to="1" begin="4.23s" dur="0.4s" fill="freeze"/>
     <rect x="0" y="0" width="56.8" height="27" rx="13.5" fill="rgba(0,245,212,0.05)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#softGlow)">
-      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.4s" begin="4.91s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.4s" begin="4.73s" repeatCount="indefinite"/>
     </rect>
     <text x="28.4" y="18" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12.5" fill="#F8FAFC">C++</text>
   </g>
-  <g opacity="0" transform="translate(926.6,340)">
-    <animate attributeName="opacity" from="0" to="1" begin="4.5s" dur="0.4s" fill="freeze"/>
+  <g opacity="0" transform="translate(747.4,340)">
+    <animate attributeName="opacity" from="0" to="1" begin="4.32s" dur="0.4s" fill="freeze"/>
+    <rect x="0" y="0" width="72.0" height="27" rx="13.5" fill="rgba(0,245,212,0.05)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#softGlow)">
+      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.4s" begin="4.82s" repeatCount="indefinite"/>
+    </rect>
+    <text x="36.0" y="18" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12.5" fill="#F8FAFC">React</text>
+  </g>
+  <g opacity="0" transform="translate(829.4,340)">
+    <animate attributeName="opacity" from="0" to="1" begin="4.41s" dur="0.4s" fill="freeze"/>
     <rect x="0" y="0" width="87.2" height="27" rx="13.5" fill="rgba(0,245,212,0.05)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#softGlow)">
-      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.4s" begin="5.0s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.4s" begin="4.91s" repeatCount="indefinite"/>
     </rect>
     <text x="43.6" y="18" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12.5" fill="#F8FAFC">FastAPI</text>
   </g>
-  <g opacity="0" transform="translate(1023.8,340)">
-    <animate attributeName="opacity" from="0" to="1" begin="4.59s" dur="0.4s" fill="freeze"/>
+  <g opacity="0" transform="translate(926.5999999999999,340)">
+    <animate attributeName="opacity" from="0" to="1" begin="4.5s" dur="0.4s" fill="freeze"/>
     <rect x="0" y="0" width="79.6" height="27" rx="13.5" fill="rgba(0,245,212,0.05)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#softGlow)">
-      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.4s" begin="5.09s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.4s" begin="5.0s" repeatCount="indefinite"/>
     </rect>
     <text x="39.8" y="18" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12.5" fill="#F8FAFC">Docker</text>
   </g>
-  <g opacity="0" transform="translate(591,378)">
-    <animate attributeName="opacity" from="0" to="1" begin="4.68s" dur="0.4s" fill="freeze"/>
-    <rect x="0" y="0" width="110.0" height="27" rx="13.5" fill="rgba(0,245,212,0.05)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#softGlow)">
-      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.4s" begin="5.18s" repeatCount="indefinite"/>
-    </rect>
-    <text x="55.0" y="18" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12.5" fill="#F8FAFC">PostgreSQL</text>
-  </g>
-  <g opacity="0" transform="translate(711.0,378)">
-    <animate attributeName="opacity" from="0" to="1" begin="4.77s" dur="0.4s" fill="freeze"/>
+  <g opacity="0" transform="translate(1016.1999999999999,340)">
+    <animate attributeName="opacity" from="0" to="1" begin="4.59s" dur="0.4s" fill="freeze"/>
     <rect x="0" y="0" width="102.4" height="27" rx="13.5" fill="rgba(0,245,212,0.05)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#softGlow)">
-      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.4s" begin="5.27s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.4s" begin="5.09s" repeatCount="indefinite"/>
     </rect>
     <text x="51.2" y="18" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12.5" fill="#F8FAFC">LangChain</text>
+  </g>
+  <g opacity="0" transform="translate(591,378)">
+    <animate attributeName="opacity" from="0" to="1" begin="4.68s" dur="0.4s" fill="freeze"/>
+    <rect x="0" y="0" width="56.8" height="27" rx="13.5" fill="rgba(0,245,212,0.05)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#softGlow)">
+      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.4s" begin="5.18s" repeatCount="indefinite"/>
+    </rect>
+    <text x="28.4" y="18" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12.5" fill="#F8FAFC">RAG</text>
+  </g>
+  <g opacity="0" transform="translate(657.8,378)">
+    <animate attributeName="opacity" from="0" to="1" begin="4.77s" dur="0.4s" fill="freeze"/>
+    <rect x="0" y="0" width="125.2" height="27" rx="13.5" fill="rgba(0,245,212,0.05)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#softGlow)">
+      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.4s" begin="5.27s" repeatCount="indefinite"/>
+    </rect>
+    <text x="62.6" y="18" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12.5" fill="#F8FAFC">Cryptography</text>
+  </g>
+  <g opacity="0" transform="translate(793.0,378)">
+    <animate attributeName="opacity" from="0" to="1" begin="4.86s" dur="0.4s" fill="freeze"/>
+    <rect x="0" y="0" width="72.0" height="27" rx="13.5" fill="rgba(0,245,212,0.05)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#softGlow)">
+      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.4s" begin="5.36s" repeatCount="indefinite"/>
+    </rect>
+    <text x="36.0" y="18" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12.5" fill="#F8FAFC">Linux</text>
+  </g>
+  <g opacity="0" transform="translate(875.0,378)">
+    <animate attributeName="opacity" from="0" to="1" begin="4.95s" dur="0.4s" fill="freeze"/>
+    <rect x="0" y="0" width="110.0" height="27" rx="13.5" fill="rgba(0,245,212,0.05)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#softGlow)">
+      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.4s" begin="5.45s" repeatCount="indefinite"/>
+    </rect>
+    <text x="55.0" y="18" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12.5" fill="#F8FAFC">PostgreSQL</text>
   </g>
 
     <line x1="591" y1="530" x2="1140" y2="530" stroke="rgba(0,245,212,0.16)" stroke-width="1"/>

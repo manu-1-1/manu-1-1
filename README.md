@@ -82,14 +82,6 @@
 
 ---
 
-<img src="./prompt-snake.svg" alt="$ watch snake.py" height="34">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/manu-1-1/manu-1-1/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 <p align="center">
   <img src="./card-focus.svg" alt="$ cat focus.yaml" width="100%">
 </p>
