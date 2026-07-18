@@ -109,7 +109,7 @@
 </p>
 
 <p align="center">
-  <i>"I don't specialize in one thing — I build until I understand it."</i>
+  <i>"Breaking systems to understand them. Building systems so they don't break"</i>
 </p>
 
 <p align="center">
