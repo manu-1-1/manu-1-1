@@ -6,13 +6,13 @@
   </picture>
 </p>
 
----
+<p align="center"><img src="./divider.svg" width="100%" height="12"></p>
 
 <p align="center">
   <img src="./card-about.svg" alt="$ cat about.me" width="100%">
 </p>
 
----
+<p align="center"><img src="./divider.svg" width="100%" height="12"></p>
 
 <p align="center">
   <img src="./card-techstack.svg" alt="$ ls tech-stack/" width="100%">
@@ -22,7 +22,7 @@
   <img src="./card-experience.svg" alt="$ cat experience.log" width="100%">
 </p>
 
----
+<p align="center"><img src="./divider.svg" width="100%" height="12"></p>
 
 <img src="./prompt-coding.svg" alt="$ cat coding-profiles.cfg" height="34">
 
@@ -32,7 +32,7 @@
   </a>
 </p>
 
----
+<p align="center"><img src="./divider.svg" width="100%" height="12"></p>
 
 <img src="./prompt-analytics.svg" alt="$ ./github-analytics.sh" height="34">
 
@@ -46,7 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manu-1-1&layout=compact&theme=transparent&title_color=00F5D4&text_color=CDD9E5&border_color=00F5D4&bg_color=0D1117&langs_count=8" />
 </p>
 
----
+<p align="center"><img src="./divider.svg" width="100%" height="12"></p>
 
 <img src="./prompt-trophies.svg" alt="$ cat trophies.json" height="34">
 
@@ -54,7 +54,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=manu-1-1&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" />
 </p>
 
----
+<p align="center"><img src="./divider.svg" width="100%" height="12"></p>
 
 <img src="./prompt-activity.svg" alt="$ tail -f activity.log" height="34">
 
@@ -62,7 +62,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manu-1-1&bg_color=0D1117&color=00F5D4&line=00B4D8&point=00F5D4&area=true&area_color=00F5D4&hide_border=false&border_color=00F5D4&title_color=00F5D4" />
 </p>
 
----
+<p align="center"><img src="./divider.svg" width="100%" height="12"></p>
 
 <img src="./prompt-summary.svg" alt="$ cat summary-cards.cfg" height="34">
 
@@ -80,13 +80,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manu-1-1&theme=transparent&utcOffset=5.5" />
 </p>
 
----
+<p align="center"><img src="./divider.svg" width="100%" height="12"></p>
 
 <p align="center">
   <img src="./card-focus.svg" alt="$ cat focus.yaml" width="100%">
 </p>
 
----
+<p align="center"><img src="./divider.svg" width="100%" height="12"></p>
 
 <img src="./prompt-connect.svg" alt="$ ./connect.sh --all" height="34">
 
@@ -109,7 +109,7 @@
 </p>
 
 <p align="center">
-  <i>"Breaking systems to understand them. Building systems so they don't break"</i>
+  <i>"Breaking systems to understand them. Building systems so they don't break."</i>
 </p>
 
 <p align="center">
