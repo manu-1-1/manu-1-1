@@ -9,14 +9,6 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech%20CS%20(Cybersecurity)-Amrita%20Vishwa%20Vidyapeetham-00F5D4?style=flat-square&labelColor=0D1117&color=00F5D4" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Coimbatore%2C%20Tamil%20Nadu%2C%20India-00B4D8?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0D1117" />
-</p>
-
----
-
-<p align="center">
   <img src="./card-about.svg" alt="$ cat about.me" width="100%">
 </p>
 
@@ -28,16 +20,6 @@
 
 <p align="center">
   <img src="./card-experience.svg" alt="$ cat experience.log" width="100%">
-</p>
-
----
-
-<img src="./prompt-education.svg" alt="$ cat education.badge" height="34">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20(Cybersecurity)-00F5D4?style=for-the-badge&labelColor=0D1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Amrita%20Vishwa%20Vidyapeetham-Coimbatore-00B4D8?style=for-the-badge&labelColor=0D1117" />
 </p>
 
 ---

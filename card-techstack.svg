@@ -1,4 +1,4 @@
-<svg width="820" height="234" viewBox="0 0 820 234" xmlns="http://www.w3.org/2000/svg">
+<svg width="820" height="212" viewBox="0 0 820 212" xmlns="http://www.w3.org/2000/svg">
 <defs>
   <linearGradient id="cardBorderc1" x1="0%" y1="0%" x2="100%" y2="100%">
     <stop offset="0%" stop-color="#00F5D4" stop-opacity="0.8"/>
@@ -8,7 +8,7 @@
   </linearGradient>
 </defs>
 
-<rect x="0.75" y="0.75" width="818.5" height="232.5" rx="12" fill="#0D1117" fill-opacity="0.95" stroke="url(#cardBorderc1)" stroke-width="1.1"/>
+<rect x="0.75" y="0.75" width="818.5" height="210.5" rx="12" fill="#0D1117" fill-opacity="0.95" stroke="url(#cardBorderc1)" stroke-width="1.1"/>
 
 <circle cx="24" cy="21.0" r="4.2" fill="#EF4444" opacity="0.9"/>
 <circle cx="37" cy="21.0" r="4.2" fill="#F59E0B" opacity="0.9"/>
@@ -19,5 +19,5 @@
 </rect>
 <line x1="0.75" y1="42" x2="819.25" y2="42" stroke="rgba(0,245,212,0.30)" stroke-width="1"/>
 
-<text x="28" y="72" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#CDD9E5" xml:space="preserve">LANGUAGES   = ["C++", "Python", "C", "JavaScript", "Java"]</text><text x="28" y="94" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#CDD9E5" xml:space="preserve">FRAMEWORKS  = ["React", "Node.js", "Express", "Socket.IO", "FastAPI", "HTML", "CSS"]</text><text x="28" y="116" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#CDD9E5" xml:space="preserve">AI_ML       = ["HuggingFace", "RAG", "ChromaDB", "Langchain"]</text><text x="28" y="138" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#CDD9E5" xml:space="preserve">DATABASES   = ["PostgreSQL", "SQL", "Prisma ORM"]</text><text x="28" y="160" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#CDD9E5" xml:space="preserve">DEVOPS      = ["Git", "Linux", "Docker", "GitHub Actions"]</text><text x="28" y="182" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#CDD9E5" xml:space="preserve">CORE_CS     = ["DSA", "OOP", "OS", "Computer Networks", "DBMS"]</text><text x="28" y="204" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#CDD9E5" xml:space="preserve">CONCEPTS    = ["System Design", "RESTful APIs", "Microservices"]</text>
+<text x="28" y="72" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#CDD9E5" xml:space="preserve">LANGUAGES   = ["Python", "C", "C++", "Java", "JavaScript", "HTML", "CSS"]</text><text x="28" y="94" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#CDD9E5" xml:space="preserve">WEB         = ["React", "Node.js", "FastAPI"]</text><text x="28" y="116" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#CDD9E5" xml:space="preserve">DB_TOOLS    = ["MySQL", "PostgreSQL", "Prisma", "Git", "GitHub Actions", "Docker"]</text><text x="28" y="138" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#CDD9E5" xml:space="preserve">SECURITY    = ["Cryptography", "Computer Networking", "Threat Modelling"]</text><text x="28" y="160" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#CDD9E5" xml:space="preserve">AI_ML       = ["Machine Learning", "LLMs", "RAG", "LangChain", "ChromaDB", "Scikit-learn"]</text><text x="28" y="182" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#CDD9E5" xml:space="preserve">PLATFORMS   = ["Linux", "Android Studio"]</text>
 </svg>
