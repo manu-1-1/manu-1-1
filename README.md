@@ -22,6 +22,10 @@
   <img src="./card-experience.svg" alt="$ cat experience.log" width="100%">
 </p>
 
+<p align="center">
+  <img src="./card-projects.svg" alt="$ ls projects/" width="100%">
+</p>
+
 <p align="center"><img src="./divider.svg" width="100%" height="12"></p>
 
 <img src="./prompt-coding.svg" alt="$ cat coding-profiles.cfg" height="34">
