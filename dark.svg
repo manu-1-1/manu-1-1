@@ -1,5 +1,8 @@
 <svg width="1180" height="610" viewBox="0 0 1180 610" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
+  <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="130%">
+    <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#000000" flood-opacity="0.28"/>
+  </filter>
   <clipPath id="rounded"><rect x="0" y="0" width="1180" height="610" rx="24"/></clipPath>
 
   <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -23,10 +26,10 @@
   </linearGradient>
 
   <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-    <stop offset="0%" stop-color="#00B4D8" stop-opacity="0.9"/>
-    <stop offset="35%" stop-color="#00F5D4" stop-opacity="0.3"/>
-    <stop offset="65%" stop-color="#00E5FF" stop-opacity="0.3"/>
-    <stop offset="100%" stop-color="#00B4D8" stop-opacity="0.9"/>
+    <stop offset="0%" stop-color="#00B4D8" stop-opacity="0.55"/>
+    <stop offset="35%" stop-color="#00F5D4" stop-opacity="0.18"/>
+    <stop offset="65%" stop-color="#00E5FF" stop-opacity="0.18"/>
+    <stop offset="100%" stop-color="#00B4D8" stop-opacity="0.55"/>
     <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="7s" repeatCount="indefinite"/>
   </linearGradient>
 
@@ -85,6 +88,7 @@
   </clipPath>
 </defs>
 
+<g filter="url(#cardShadow)">
 <g clip-path="url(#rounded)">
   <!-- floating ambient glows -->
   <circle cx="140" cy="90" r="220" fill="url(#glowBlue)">
@@ -358,7 +362,8 @@
   </g>
   </g>
 </g>
+</g>
 
 <!-- outer border shimmer -->
-<rect x="1" y="1" width="1178" height="608" rx="24" fill="none" stroke="url(#borderGrad)" stroke-width="1.4"/>
+<rect x="1" y="1" width="1178" height="608" rx="24" fill="none" stroke="url(#borderGrad)" stroke-width="1.1"/>
 </svg>
